@@ -5,11 +5,11 @@
 ## Cykl życia przedsięwzięcia badawczego
 
 1. Postawienie tezy
-    1.1. Formalna definicja modelu, definicja zmiennych
+    1. Formalna definicja modelu, definicja zmiennych
 2. Przeprowadzenie eksperymentu
-    2.1. Budowa symulatora
-    2.2. Przeprowadzenie eksperymentu
-    2.3. Obróbka wyników
+    1. Budowa symulatora
+    2. Przeprowadzenie eksperymentu
+    3. Obróbka wyników
 3. Analiza wyników
 4. Publikacja
 
