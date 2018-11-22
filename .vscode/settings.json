@@ -1,0 +1,15 @@
+{
+  "python.unitTest.promptToConfigure": false,
+  "python.unitTest.pyTestEnabled": false,
+  "python.unitTest.unittestEnabled": false,
+  "python.unitTest.nosetestsEnabled": false,
+  "python.linting.pylintEnabled": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.ipynb_checkpoints": true
+  }
+}
