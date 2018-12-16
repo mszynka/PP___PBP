@@ -551,3 +551,4 @@ modules.xml
 
 
 # End of https://www.gitignore.io/api/node,latex,linux,pycharm,jetbrains,pycharm+all,archlinuxpackages
+.ipynb_checkpoints
